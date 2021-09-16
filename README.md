@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damian-anslik
-- 👀 I’m interested in Full Stack Engineering, my current stack is React Native and Python for backend and scripting
+- 👀 I’m interested in Full Stack Engineering, my current stack is React Native for mobile develeopment and Python for backend and scripting
 - 🌱 I’m currently learning React Native
 
 <!---
