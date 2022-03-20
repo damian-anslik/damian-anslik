@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @damian-anslik
-- 👀 I’m interested in Full Stack Engineering, my current stack is React Native for mobile develeopment and Python for backend and scripting
-- 🌱 I’m currently learning React Native
+- ℹ️ I’m interested in full-stack development, but my expertise is on the backend
+- ✨ I'm currently learning React Native and React on the front end, and ASP.NET on the backend
+- 😎 I'm comfortable reading and writing code in Python, JavaScript and C#
+
+- 📚 Courses:
+  - ☁️ [Amazon Webs Services Certified 2022](https://www.udemy.com/course/aws-certified-associate-architect-developer-sysops-admin/)
 
 <!---
 damian-anslik/damian-anslik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
